@@ -15,7 +15,6 @@
 		E9D0FCE018857BD100771B50 /* AIAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E9D0FCC018857BD100771B50 /* AIAppDelegate.m */; };
 		E9D0FCE118857BD100771B50 /* AICollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E9D0FCC218857BD100771B50 /* AICollectionViewController.m */; };
 		E9D0FCE218857BD100771B50 /* AIGradientCollectionViewLayoutAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = E9D0FCC418857BD100771B50 /* AIGradientCollectionViewLayoutAttributes.m */; };
-		E9D0FCE318857BD100771B50 /* AIiOS7MessageSample-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9D0FCC518857BD100771B50 /* AIiOS7MessageSample-Info.plist */; };
 		E9D0FCE418857BD100771B50 /* AIMessageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E9D0FCC818857BD100771B50 /* AIMessageCell.m */; };
 		E9D0FCE518857BD100771B50 /* AIMessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E9D0FCC918857BD100771B50 /* AIMessageCell.xib */; };
 		E9D0FCE618857BD100771B50 /* AIMessageGradientView.m in Sources */ = {isa = PBXBuildFile; fileRef = E9D0FCCB18857BD100771B50 /* AIMessageGradientView.m */; };
@@ -257,7 +256,6 @@
 				E9D0FCEE18857BD100771B50 /* Images.xcassets in Resources */,
 				E9D0FCEA18857BD100771B50 /* Main_iPad.storyboard in Resources */,
 				E9D0FCEB18857BD100771B50 /* Main_iPhone.storyboard in Resources */,
-				E9D0FCE318857BD100771B50 /* AIiOS7MessageSample-Info.plist in Resources */,
 				E9D0FCE518857BD100771B50 /* AIMessageCell.xib in Resources */,
 				E9D0FCF018857BD100771B50 /* profile.png in Resources */,
 				E9D0FCF118857BD100771B50 /* profile@2x.png in Resources */,
